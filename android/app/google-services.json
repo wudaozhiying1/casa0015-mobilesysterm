@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094277924288",
+    "project_id": "airwalk-34455",
+    "storage_bucket": "airwalk-34455.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094277924288:android:b1d548762b10678fa83425",
+        "android_client_info": {
+          "package_name": "com.example.myfristapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvAN8lX7Y5VY8NdnCCo-FCHmjD3b67xb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
