@@ -46,3 +46,5 @@ flutter run
 ```
 ### App video
 https://youtu.be/rVnBajR6P8Y
+### Licence
+This project is licensed under the MIT License.
