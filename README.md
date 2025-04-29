@@ -1,23 +1,45 @@
-# REPLACE WITH YOUR APP NAME
+# AirWalk
 
-This is the Final assessment template for CASA0014 - Please use this template and edit the relevant sections to personalise.
-This section has a short introduction to what the application is
+AirWalk is an innovative navigation app that suggests different routes based on real-time air pollution levels. It leverages Google's API to display maps and air quality data, and uses your device's built-in GPS for precise location tracking.
 
-## Use this README File 
+## Features
 
-Use this section to show us what your Mobile App is about.   Include a Screenshot to the App, link to the various frameworks you've used. Include your presentation video here that shows off your Mobile App.   Emojis are also fun to include 📱 😄
+- Smart Routing:
+  - Fastest Route
+  - Cleanest Route (Lowest Pollution)
+  - Alternative Route
 
-Look at some other Flutter Apps online and see how they use there README File.  Good examples are:
+- Interactive Map:
+  - Search for your destination using the search bar at the top.
+  - View your current location and navigate easily.
 
-- https://github.com/miickel/flutter_particle_clock
-- https://github.com/Tarikul711/flutter-food-delivery-app-ui    
-- https://github.com/mohak1283/Instagram-Clone
+- Air Pollution Heatmap:
+  - Check real-time air pollution hotspots.
+  - View major pollutants and pollution indices.
 
+- Route Selection:
+  - Choose your preferred route based on time or air quality.
 
-## Include A Section That Tells Developers How To Install The App
+- Navigation Page:
+  - Visual path guidance based on your selected destination.
 
-Include a section that gives intructions on how to install the app or run it in Flutter.  What versions of the plugins are you assuming?  Maybe define a licence
+- User Profile:
+  - View your search history and navigation history.
+  - Manage your list of favorite places.
 
-##  Contact Details
+## Installation
 
-Having Contact Details is also good as it shows people how to get in contact with you if they'd like to contribute to the app. 
+### Mobile Installation (APK)
+
+- Download the APK file from the project's GitHub repository.
+- Install it on your Android device.
+
+### Desktop Installation (Using Android Studio and Flutter)
+
+1. Install Android Studio and Flutter SDK.
+2. Clone or download this GitHub repository.
+3. Open the project folder with Visual Studio Code.
+4. Open a terminal and run the following command:
+
+```bash
+flutter run
